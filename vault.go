@@ -1,6 +1,6 @@
 // Package vault provides minimal primitives for getting secrets
 // out of a hashicorp vault.
-package lib-vault
+package libvault
 
 import (
 	"bytes"
